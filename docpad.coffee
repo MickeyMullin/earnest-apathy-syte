@@ -161,12 +161,12 @@ module.exports =
               user: 'instagramUser'
               media: 'instagramMedia'
 
-        # Codepen
-        Codepen:
-          name: 'Codepen'
-          url: "//codepen.io/#{envConfig.CODEPEN_USERNAME}"
-            feeds:
-              user: 'codepenUser'
+#        # Codepen
+#        Codepen:
+#          name: 'Codepen'
+#          url: "//codepen.io/#{envConfig.CODEPEN_USERNAME}"
+#            feeds:
+#              user: 'codepenUser'
 
         # Geeklist
         Geeklist:
